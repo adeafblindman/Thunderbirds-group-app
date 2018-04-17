@@ -1,0 +1,6 @@
+Obj1 = test
+Obj43 = street
+Obj44 = tavern
+Obj45 = cave
+Obj46 = cellar
+Obj47 = tunnel room
